@@ -48,10 +48,38 @@ while queue is not empty
 * Put the background image and adds the lines, stations and the names of stations which should be written.      
 * Marks the path step by step in animatio            
 
-Example of the created map:
+**Example of the created map:**        
 
 
 ![image](https://github.com/kerembozkurt2002/Istanbul_Metro_Line_Finder/assets/157289283/ee55f161-b543-4b84-8c30-f8c94225e033)
+
+
+**Example:**   
+* **Input:**  
+Levent  
+Uskudar  
+
+* **Console Output:**            
+Levent   
+Gayrettepe     
+Sisli-Mecidiyekoy  
+Osmanbey        
+Taksim        
+Sishane        
+Halic            
+Vezneciler            
+Yenikapi        
+Sirkeci                
+Uskudar  
+
+* **Canva Output:**        
+https://drive.google.com/file/d/13JHLDxzN_7zaECHtFVmPshD9ev6qEgJb/view?usp=sharing
+
+
+* **Image Of The Final Form Of Example:**
+  ![Adsız](https://github.com/kerembozkurt2002/Istanbul_Metro_Line_Finder/assets/157289283/40e94f9c-ab7b-4d6c-8ea8-0a5d7be4dba0)
+
+               
 
 
 
