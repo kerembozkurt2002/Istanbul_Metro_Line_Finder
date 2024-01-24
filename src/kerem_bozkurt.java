@@ -8,7 +8,7 @@ import java.awt.Font;
 
 /**
  * Program finds the path between two stations and makes an animation with StdDraw Library
- * @author Kerem Bozkurt, Student ID: 2020400177
+ * @author Kerem Bozkurt
  * @since Date: 27.03.2023
  */
 public class kerem_bozkurt {
