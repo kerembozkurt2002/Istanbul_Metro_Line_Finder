@@ -1,10 +1,6 @@
 # Istanbul_Metro_Line_Finder
 
-This Java code reads data from a text file containing the coordinates, pauses and breakpoints of a metro line 
-network. It then uses this data to build a graph of the metro network and implements a breadth-first search to find 
-the path between two stations. BFS stands for Breadth-First Search, which is a graph traversal algorithm that 
-explores all the vertices of a graph in breadth-first order. Breadth First Search visits vertices in increasing distance 
-from the source.
+This Java code reads data from a text file containing the coordinates, pauses and breakpoints of a metro line  network. It then uses this data to build a graph of the metro network and implements a breadth-first search to find the path between two stations. BFS stands for Breadth-First Search, which is a graph traversal algorithm that explores all the vertices of a graph in breadth-first order. Breadth First Search visits vertices in increasing distance from the source.
 
 Given a graph with N vertices and a selected vertex s:
 for (i = 1; there are unvisited vertices ; i++)
